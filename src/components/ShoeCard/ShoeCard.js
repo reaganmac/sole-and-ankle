@@ -65,7 +65,9 @@ const Label = styled.div`
   position: absolute;
   top: 12px;
   right: 0;
-  padding: 7px 9px 9px 11px;
+  height: 32px;
+  padding: 0 10px;
+  line-height: 32px;
   border-radius: 2px;
   color: ${COLORS.white};
   font-size: 0.875rem;
